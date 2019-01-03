@@ -3,6 +3,6 @@ function add(a: number, b: number) {
 }
 
 console.log('hi')
-[1].forEach(n => console.log(n))
+[1].forEach((n: number) => console.log(n))
 
 export {add}
