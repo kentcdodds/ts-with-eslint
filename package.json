@@ -1,0 +1,17 @@
+{
+  "name": "ts-with-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.11.1",
+    "pluggable-babel-eslint": "^0.3.0",
+    "typescript": "^3.2.2"
+  }
+}
